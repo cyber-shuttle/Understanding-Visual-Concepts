@@ -1,17 +1,14 @@
-# Understanding-Visual-Concepts
+# Cybershuttle Illustrative Notebooks
 
-This repository contains code for understanding and predicting visual attributes using various pre-trained vision models. It focuses on the Visual Attributes in the Wild (VAW) dataset and includes functionalities for extracting attributes, setting up models, computing embeddings, and preparing data for training and testing.
+This repository contains a collection of Jupyter notebooks designed to demonstrate the capabilities and functionalities of Cybershuttle, an advanced computational science framework.
+
+## Overview
+
+Cybershuttle seamlessly integrates local and remote computing resources, enabling researchers to conduct efficient and optimized scientific computations. This repository provides example notebooks to help you understand and utilize Cybershuttle in your computational workflows.
 
 ## Features
 
-- Extraction of visual attributes from JSON files.
-- Setup and use of pre-trained vision models (DINOv2 in current implimentation) for feature extraction.
-- Computation and storage of image embeddings.
-- Preparation of training and testing datasets for machine learning models.
-- Handling of label imbalance and attribute-specific processing.
-
-## Workflow Illustration
-
-
-
-
+- Seamless Integration: Balance between local and remote resources.
+- Automated Data Management: Efficient data transfer and management.
+- Domain-Specific Plugins: Tailored tools for molecular dynamics, neuroscience, quantum chemistry, and geosciences.
+- AI-Driven Experimentation: Intelligent tools for experiment input generation and hypothesis testing.
